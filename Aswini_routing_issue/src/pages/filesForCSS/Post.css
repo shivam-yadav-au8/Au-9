@@ -1,0 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  margin: auto;
+  background-color: gray;
+  border: 2px solid black;
+  margin: 3px;
+}
